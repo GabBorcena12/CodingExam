@@ -30,11 +30,7 @@ This project involves creating a RESTful API using **.NET 8.0** for importing, s
 
 4. **Copy the Sample CSV Files**
 
-    Copy the sample CSV files to your local machine from the following path:
-
-    ```
-    ~\repos\PizzaPlace\Csv Files
-    ```
+    Copy the sample CSV files to your local machine
 
 5. **Run the Application**
 
@@ -50,17 +46,17 @@ This project involves creating a RESTful API using **.NET 8.0** for importing, s
 
 ### Pizza
 
-- **File**: `pizza.csv`
+- **File**: `pizzas.csv`
 - **Endpoint**: `api/Import/Pizza`
 
 ### Pizza Type
 
-- **File**: `pizzatypes.csv`
+- **File**: `pizza_types.csv`
 - **Endpoint**: `api/Import/PizzaType`
 
 ### Order Details
 
-- **File**: `orderdetails.csv`
+- **File**: `order_details.csv`
 - **Endpoint**: `api/Import/OrderDetails`
 
 ### Orders
